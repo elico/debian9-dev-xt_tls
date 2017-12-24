@@ -1,0 +1,4 @@
+- http://www.xkyle.com/building-linux-packages-for-kernel-drivers/
+- https://github.com/sbates130272/donard/blob/master/README.md
+- https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=832558
+- https://bugs.debian.org/cgi-bin/bugreport.cgi?att=1;bug=832558;filename=fix.patch;msg=15
